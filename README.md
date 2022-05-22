@@ -38,7 +38,7 @@ Programmer | Learner
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Express.js][(https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express.js)](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
   ![Sql](https://img.shields.io/badge/-Sql-333333?style=flat&logo=sql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)&nbsp;
 <br />
