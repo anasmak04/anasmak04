@@ -18,12 +18,10 @@ Programmer | Learner
 - ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
 
 ### Connect with me:
-
-
-	![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
-	![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)&nbsp;
-	![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)&nbsp;
-	![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;
+![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)&nbsp;
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)&nbsp;
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)&nbsp;
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;
 
 
 <br />
@@ -61,12 +59,10 @@ Programmer | Learner
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anasmak04&show_icons=true&locale=en" alt="anasmak04" /></p>
 
-[website]: https://TechHelpBD.com
-[facebook]: https://facebook.com/MahbubDev
-[twitter]: https://twitter.com/mahbubdev
-[youtube]: https://youtube.com/TechHelpBangladesh
-[instagram]: https://instagram.com/mahbubdev/
-[linkedin]: https://linkedin.com/in/mahbubdev
-[telegram]: https://t.me/TechHelpBangladesh
+![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)&nbsp;
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)&nbsp;
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)&nbsp;
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;
+
 
 
