@@ -4,6 +4,7 @@
 Programmer | Learner
 
 ?></h3>
+(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 - 🔭 I’m currently working on **mern stack**
 
