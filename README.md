@@ -4,9 +4,8 @@
 Programmer | Learner
 
 ?></h3>
-
-<div align="center">![github-header-image (2)](https://user-images.githubusercontent.com/102997226/169706373-6fb9dad3-918c-462c-8539-77832ec02129.png)</div>
-
+![github-header-image (2)](https://user-images.githubusercontent.com/102997226/169706373-6fb9dad3-918c-462c-8539-77832ec02129.png)
+<img align="center" src="https://user-images.githubusercontent.com/102997226/169706373-6fb9dad3-918c-462c-8539-77832ec02129.png"></img>
 
 ### Connect with me:
 ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)&nbsp;
