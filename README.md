@@ -4,19 +4,9 @@
 Programmer | Learner
 
 ?></h3>
-(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-- 🔭 I’m currently working on **mern stack**
+  ![github-header-image](https://user-images.githubusercontent.com/102997226/169706270-c0ff66ee-7b6b-41a1-9cf1-8fcc0911be25.png)
 
-- 🌱 I’m currently learning **mern stack**
-
-- 👯 I’m looking to collaborate on **Open Source**
-
-- 💬 Ask me about **Anything**
-
-- 📫 How to reach me **anasdev8@gmail.com**
-
-- ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
 
 ### Connect with me:
 ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)&nbsp;
