@@ -5,7 +5,7 @@ Programmer | Learner
 
 ?></h3>
 
-![github-header-image (2)](https://user-images.githubusercontent.com/102997226/169706373-6fb9dad3-918c-462c-8539-77832ec02129.png)
+<div align="center">![github-header-image (2)](https://user-images.githubusercontent.com/102997226/169706373-6fb9dad3-918c-462c-8539-77832ec02129.png)</div>
 
 
 ### Connect with me:
