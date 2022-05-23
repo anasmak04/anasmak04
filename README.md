@@ -1,6 +1,6 @@
-<h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Anas Elmakhloufi</h1>
+<h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Anas </h1>
 
-                ![github-header-image (2)](https://user-images.githubusercontent.com/102997226/169706373-6fb9dad3-918c-462c-8539-77832ec02129.png)
+                ![github-header-image (2)](https://user-images.githubusercontent.com/102997226/169706373-6fb9dad3-918c-462c-8539-77832ec02129.png);
 
 ### Connect with me:
 <a href="https://www.facebook.com/">![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)&nbsp;
