@@ -1,9 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Anas Elmakhloufi</h1>
-<h3 align="center">¯\_(ツ)_/¯
 
-Programmer | Learner
-
-?></h3>
                 ![github-header-image (2)](https://user-images.githubusercontent.com/102997226/169706373-6fb9dad3-918c-462c-8539-77832ec02129.png)
 
 ### Connect with me:
