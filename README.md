@@ -37,7 +37,7 @@ Programmer | Learner
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=anasmak04.visitor-badge&left_color=blue&right_color=yellow)
 <br />
 
-[![anasmak04 github activity graph](https://activity-graph.herokuapp.com/graph?username=anasmak03&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/anasmak04/github-readme-activity-graph)
+[![anasmak04 github activity graph](https://activity-graph.herokuapp.com/graph?username=anasmak04&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/anasmak04/github-readme-activity-graph)
 
 
 
