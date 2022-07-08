@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/anas-elmakhloufi-698189236/">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;
 </a>
 
-
+ 
 <br />
 
 #### 🛠 &nbsp;Tech Stack
@@ -32,14 +32,14 @@
 ![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
   ![Sql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-<br />
+<br /> 
 
 ### Profile Visitors 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=anasmak04.visitor-badge&left_color=red&right_color=royalblue)
 <br />
 
 [![anasmak04 github activity graph](https://activity-graph.herokuapp.com/graph?username=anasmak04&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/anasmak04/github-readme-activity-graph)
-
+ 
 
 
 
