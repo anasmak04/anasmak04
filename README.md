@@ -39,7 +39,7 @@
 <br />
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?anasmak04=anuraghazra&hide=contribs,prs)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasmak04)](https://github.com/anasmak04/github-readme-stats)
 
 
 
