@@ -38,9 +38,8 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=anasmak04.visitor-badge&left_color=red&right_color=royalblue)
 <br />
 
-[![anasmak04 github activity graph](https://activity-graph.herokuapp.com/graph?username=anasmak04&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/anasmak04/github-readme-activity-graph)
+[![anasmak04 github activity graph]( https://github-readme-stats.vercel.app/api?anasmak04=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default)
 
-[anasmak04]: https://github-readme-stats.vercel.app/api?anasmak04=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
 
 
  
