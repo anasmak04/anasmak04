@@ -38,7 +38,9 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=anasmak04.visitor-badge&left_color=red&right_color=royalblue)
 <br />
 
-[![anasmak04 github activity graph]( https://github-readme-stats.vercel.app/api?anasmak04=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?anasmak04=anuraghazra&hide=contribs,prs)
+
 
 
 
