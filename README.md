@@ -48,7 +48,7 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasmak04)](https://github.com/anasmak04/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasmak04&theme=radical&show_icons=true)](https://github.com/anasmak04/github-readme-stats)
 
 
 
@@ -57,7 +57,7 @@
 
 
 
-<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anasmak04&show_icons=true&locale=en&layout=compact&theme=radical)
+<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anasmak04&show_icons=true&locale=en&layout=compact)
 " alt="anasma04" /></p>
 
 
