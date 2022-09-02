@@ -48,11 +48,14 @@
 
 
 
+<div align="center">
+  <div style="display: flex;">
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasmak04&theme=radical&show_icons=true)](https://github.com/anasmak04/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasmak04&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
+  </div>
+</div>
 
 
 <a   href="https://www.facebook.com/">![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)&nbsp;
