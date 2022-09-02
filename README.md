@@ -1,4 +1,4 @@
-<h1 align="start">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">Y'all </h1>
+<h1 align="start">Y'all<img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px"> </h1>
 
 ![github-header-image (1)](https://user-images.githubusercontent.com/102997226/170659043-9db6b7b3-1401-493e-8a5e-e2fc323b66e7.png)
     
