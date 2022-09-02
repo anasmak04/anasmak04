@@ -42,7 +42,7 @@
 <br /> 
 
 ### Profile Visitors 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=anasmak04.visitor-badge&left_color=red&right_color=royalblue)
+![](https://komarev.com/ghpvc/?username=anasmak04&color=blueviolet	)
 <br />
 
 
