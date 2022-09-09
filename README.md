@@ -10,7 +10,7 @@
 </a>
 <a href="https://www.instagram.com/anaaas_makhl/?hl=en">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)&nbsp;
 </a>
-<a href="https://www.linkedin.com/in/anas-elmakhloufi-698189236/">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;
+<a href="https://www.linkedin.com/in/anas-elmakhloufi-698189236/">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)&nbsp;
 </a>
 
  
