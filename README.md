@@ -45,7 +45,6 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=anasmak04.visitor-badge&left_color=red&right_color=royalblue)
 <br />
 
-[![Mahbub's github activity graph](https://activity-graph.herokuapp.com/graph?username=anasmak04&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/anasmak04/github-readme-activity-graph)
 
 
 
