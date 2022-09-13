@@ -53,9 +53,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasmak04&theme=radical&show_icons=true)](https://github.com/anasmak04/github-readme-stats)
 
-      [![johannchopin's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/:template/:19329504)](https://github.com/johannchopin/stackoverflow-readme-profile)
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasmak04&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   </div>
