@@ -37,10 +37,10 @@
 
 
 📫&nbsp; How to contact me:
-[<img align="left" alt="anasmak04 | LinkedIn" width="35px" src="https://img.icons8.com/color/48/ffffff/linkedin.png"/>][linkedin]
-[<img align="left" alt="anasmak04 | Email" width="35px" src="https://img.icons8.com/fluency/48/ffffff/new-post.png" />][Gmail]
+[<img align="left" alt="anasmak04 | LinkedIn" width="35px" src="https://img.icons8.com/color/48/ffffff/linkedin.png"/>][linkedin] : https://www.linkedin.com/in/anas-elmakhloufi/ <br></br>
+[<img align="left" alt="anasmak04 | Email" width="35px" src="https://img.icons8.com/fluency/48/ffffff/new-post.png" />][Gmail]: anasdev8@gmail.com 
 
-[linkedin]: https://www.linkedin.com/in/anas-elmakhloufi/ <br></br>
-[Gmail]: anasdev8@gmail.com 
+
+
 
 
