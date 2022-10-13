@@ -7,7 +7,7 @@
 👨‍💻&nbsp; I'm currently learning everything that have relation with (<strong>Java</strong> & <strong>Javascript</strong>)
 
 
-📍&nbsp; Based in Rabat.
+📍&nbsp; Rabat Morocco.
 
 
 
