@@ -38,7 +38,7 @@
 
 📫&nbsp; How to contact me:
 
-[linkedin]: https://www.linkedin.com/in/ibrahim-ahdadou/ <br></br>
-[Gmail]: mailto:ibra.ahdadou@gmail.com 
+[linkedin]: https://www.linkedin.com/in/anas-elmakhloufi/ <br></br>
+[Gmail]: anasdev8@gmail.com 
 
 
