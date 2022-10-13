@@ -35,11 +35,10 @@
 
 ## Contact: 
 
-📘&nbsp; [Portfolio](https://anusontarangkul.github.io/portfolio-anusontarangkul/)
 
 📫&nbsp; How to contact me:
 
 - anasdev8d@gmail.com <br></br>
-📘&nbsp; [Linkedin](https://www.linkedin.com/in/anas-elmakhloufi/)
+- 📘&nbsp; [Linkedin](https://www.linkedin.com/in/anas-elmakhloufi/)
 
 
