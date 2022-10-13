@@ -4,7 +4,7 @@
 
 ## About
 
-👨‍💻&nbsp;  geek developer passionate about web and tech..
+👨‍💻&nbsp; I'm currently learning everything that have relation with (<strong>Java</strong> & <strong>Javascript</strong>)
 
 
 📍&nbsp; Based in Rabat.
@@ -38,7 +38,7 @@
 
 📫&nbsp; How to contact me:
 
-- anasdev8d@gmail.com <br></br>
--  [Linkedin](https://www.linkedin.com/in/anas-elmakhloufi/)
+[linkedin]: https://www.linkedin.com/in/ibrahim-ahdadou/ <br></br>
+[Gmail]: mailto:ibra.ahdadou@gmail.com 
 
 
