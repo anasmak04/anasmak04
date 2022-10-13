@@ -40,4 +40,6 @@
 📫&nbsp; How to contact me:
 
 - anasdev8d@gmail.com
+📘&nbsp; [Linkedin](https://www.linkedin.com/in/anas-elmakhloufi/)
+
 
