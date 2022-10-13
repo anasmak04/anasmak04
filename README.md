@@ -39,7 +39,7 @@
 
 📫&nbsp; How to contact me:
 
-- anasdev8d@gmail.com
+- anasdev8d@gmail.com <br></br>
 📘&nbsp; [Linkedin](https://www.linkedin.com/in/anas-elmakhloufi/)
 
 
