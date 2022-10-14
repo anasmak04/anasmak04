@@ -30,7 +30,7 @@
 
 🔸&nbsp;  **Databases:** MySQL (Sequelize), MongoDB (Mongoose), Postgresql.
 
-🔹&nbsp;  **Testing:** Jest, JUnit, Karma.
+🔹&nbsp;  **Testing:** Jest, JUnit, Jasmine.
 
 
 
