@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋    ![](https://komarev.com/ghpvc/?username=anasmak04&label=PROFILE+VIEWS)
+
 
 ⏳ Year progress { ████████████████████████▁▁▁▁▁▁ } 81.85 %
 
