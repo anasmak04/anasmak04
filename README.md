@@ -6,14 +6,15 @@
 
 
 
-<table>
-  <tr>
-    <td valign="top">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasmak04&theme=dark&show_icons=true)
-</td>
-    <td valign="top">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasmak04&layout=compact&hide=Boo,Moocode&theme=dark)](https://github.com/anuraghazra/github-readme-stats)</td>
-  </tr>
-</table>
 
+
+<div align="center">
+  <div style="display: flex">
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasmak04&theme=dark&show_icons=true)
+    
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasmak04&layout=compact&hide=Boo,Moocode&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+</div>
  
  ---
 
