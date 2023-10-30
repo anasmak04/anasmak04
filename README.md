@@ -11,8 +11,8 @@
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 
-<div>       ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasmak04&theme=dark&show_icons=true&count_private=true)
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasmak04&layout=compact&hide=Boo,Moocode&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)</div>
+     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasmak04&theme=dark&show_icons=true&count_private=true)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasmak04&layout=compact&hide=Boo,Moocode&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
      [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31x6jzv5nvk2wbeh7wa4qldc6pym&cover_image=true&theme=default&show_offline=false&background_color=4bc38b&interchange=false)](https://github.com/kittinan/spotify-github-profile)
