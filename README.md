@@ -13,11 +13,13 @@
 
 
 
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasmak04&theme=dark&show_icons=true&count_private=true)
+  <div display="flex"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasmak04&theme=dark&show_icons=true&count_private=true)
     
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasmak04&layout=compact&hide=Boo,Moocode&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31x6jzv5nvk2wbeh7wa4qldc6pym&cover_image=true&theme=default&show_offline=false&background_color=4bc38b&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+div>
+  <div align="center">
+     [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31x6jzv5nvk2wbeh7wa4qldc6pym&cover_image=true&theme=default&show_offline=false&background_color=4bc38b&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+  </div>
 
  
  ---
