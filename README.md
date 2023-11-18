@@ -7,14 +7,6 @@
 
 
 ---
-
-
-     
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasmak04&layout=compact&hide=Boo,Moocode&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
  
  ---
 
