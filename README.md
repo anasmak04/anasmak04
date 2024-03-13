@@ -1,50 +1,61 @@
-### Hello 👋
+<h2 align="left">Hi 👋! My name is ... and I'm a Sofware Developer</h2>
 
-<p align="center">
-  <a href="https://leetcode.com/anasmak04" target="_blank">
-      <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FE7A16?&style=for-the-badge&logo=LeetCode&logoColor=white" />
-    </a>
-  
-  <a href="https://www.hackerrank.com/profile/anasdev8" target="_blank">
-      <img alt="Hackerrank" src="https://img.shields.io/badge/Hackerrank-NA94B.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />
-    </a>
-  
-  <a href="https://stackoverflow.com/users/19329504/anas-mk" target="_blank">
-      <img alt="stackoverflow" src="https://img.shields.io/badge/stackoverflow-E34F26?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
-    </a> 
- 
- 
-    
-   
-    
-  <a target="_top" href="mailto:anasdev8@gmail.com" target="_blank">
-      <img alt="Gmail" src="https://img.shields.io/badge/gmail-f44336?&style=for-the-badge&logo=Gmail&logoColor=white" />
-    </a>
+###
 
-     
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anasmak04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anasmak04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## 📈 Github stats
+###
 
-<!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Anas's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=anasmak04&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Anas's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasmak04&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10&hide=TeX,Hack,Moocode,boo" height="192px"/>
-</a>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="30" alt="webstorm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="30" alt="phpstorm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="apachekafka logo"  />
+</div>
 
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
-<p align="center">
-  <a href="https://badges.pufler.dev/visits/anasmak04/anasmak04">
-    <img src="https://badges.pufler.dev/visits/anasmak04/anasmak04?style=flat-square&color=blue&logo=github?1" alt="Visits Badge">
-  </a>
-  <a href="https://badges.pufler.dev/years/anasmak04">
-    <img src="https://badges.pufler.dev/years/anasmak04?style=flat-square&color=blue&logo=github?1" alt="Years">
-  </a>
-  <a href="https://badges.pufler.dev/repos/anasmak04">
-    <img src="https://badges.pufler.dev/repos/anasmak04?style=flat-square&color=blue&logo=github?1" alt="Repos">
-  </a>
-</p>
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/anasmak04/anasmak04/output/snake.svg" alt="Snake animation" />
+
+###
