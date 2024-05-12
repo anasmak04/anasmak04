@@ -15,10 +15,10 @@ In my development career, I have accumulated expertise in several key areas:
 ## 🚀 Skills
 
 - **Languages:** Java, JavaScript, PHP, TypeScript
-- **Frameworks/Libraries:** Spring Boot, Hibernate, Spring Security, Angular, Laravel
-- **Databases:** SQL (MySQL, PostgreSQL), NoSQL
-- **Tools:** Git, Docker, Jenkins, Maven
-- **Others:** REST APIs, Microservices, OAuth, MVC
+- **Frameworks/Libraries:** Spring Boot, Angular, Laravel , Nodejs , Expressjs
+- **Databases:** SQL , Nosql (MySQL, PostgreSQL), MongoDB
+- **Tools:** Git, Docker, Jenkins, Maven , Gradle
+- **Others:** REST APIs, GraphQL ,  Microservices
 
 ## 📈 GitHub Stats
 
