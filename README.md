@@ -1,56 +1,31 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a Sofware Developer</h2>
+# Hello, I'm Anas! 👋
 
-###
+Welcome to my GitHub profile! As a seasoned full-stack developer, I specialize in Java technologies, PHP, Laravel, and Angular. My expertise spans crafting dynamic and robust applications from front to back. Dive into my projects to see a blend of innovative solutions and solid, scalable systems.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anasmak04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anasmak04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 👨‍💻 About Me
 
-###
+In my development career, I have accumulated expertise in several key areas:
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="30" alt="webstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="30" alt="phpstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="apachekafka logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+- **Backend Development:** Proficient in Java with strong experience in frameworks like Spring Boot, Hibernate, and Spring Security. Additionally, I'm skilled in PHP, with extensive knowledge of the Laravel framework.
+- **Frontend Development:** Experienced in Angular for building interactive and responsive user interfaces. Also proficient in JavaScript for versatile frontend scripting.
+- **API Development:** Expert in creating and managing RESTful services using Java and Laravel, ensuring efficient, scalable, and secure data exchange.
+- **Architectural Patterns:** Deep understanding of Model-View-Controller (MVC) architectures across different technologies, ensuring clean, maintainable, and scalable code.
+- **Security Practices:** Implementing advanced security measures with Spring Security and Laravel's built-in features to safeguard applications.
 
-</div>
+## 🚀 Skills
 
-###
+- **Languages:** Java, JavaScript, PHP, TypeScript
+- **Frameworks/Libraries:** Spring Boot, Hibernate, Spring Security, Angular, Laravel
+- **Databases:** SQL (MySQL, PostgreSQL), NoSQL
+- **Tools:** Git, Docker, Jenkins, Maven
+- **Others:** REST APIs, Microservices, OAuth, MVC
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</div>
+## 📈 GitHub Stats
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=anasmak04&show_icons=true&theme=tokyonight)
 
+## 📫 How to Reach Me
+
+- **Email:** anasdev8@gmail.com
+
+Feel free to connect for collaborations, freelance opportunities, or even a friendly chat about the latest in tech! 💬
