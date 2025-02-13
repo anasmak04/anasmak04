@@ -6,10 +6,6 @@
 - **Tools:** Git, Docker, Jenkins, Maven , Gradle
 - **Others:** REST APIs, GraphQL ,  Microservices
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=anasmak04&show_icons=true&theme=tokyonight)
-
 ## 📫 How to Reach Me
 
 - **Email:** anasdev8@gmail.com
